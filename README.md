@@ -1,3 +1,6 @@
+# Snake game
+[🎮 Play the Game](https://335.github.io/snake-game)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
